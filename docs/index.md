@@ -1,4 +1,4 @@
-## Hi, thank you for visiting my page. My names are: Chibudu Nyiro. I'm an aspiring Data Scientist
+## Hi, thank you for visiting my page. I'm Chibudu Nyiro. I'm an aspiring Data Scientist
 
 ### The Work Done
 I carried out the following procedures for the preparation of the Data Cleaning in this project
