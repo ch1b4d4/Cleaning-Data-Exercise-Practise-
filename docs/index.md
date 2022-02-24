@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Data Cleaning Exercise
 
 You can use the [editor on GitHub](https://github.com/ch1b4d4/Cleaning-Data-Exercise-Practise-/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
