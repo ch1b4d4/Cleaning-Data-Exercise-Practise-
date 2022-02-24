@@ -1,37 +1,31 @@
-## Data Cleaning Exercise
+## Chibudu Nyiro
 
-You can use the [editor on GitHub](https://github.com/ch1b4d4/Cleaning-Data-Exercise-Practise-/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Please access my work through this link: [editor on GitHub](https://github.com/ch1b4d4/Cleaning-Data-Exercise-Practise-/edit/main/docs/index.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The Work Done
+I carried out the following procedures for the preparation of the Data Cleaning in this project
 
 ```markdown
-Syntax highlighted code block
+Null Values
+1. Checking for the availability of Null Values
+2. Filling up the Null Values with '0'
+3. Deleting the Null values that will not add value to my research project
 
-# Header 1
-## Header 2
-### Header 3
+```markdown
+Dropping of all the Columns that are irelevant
 
-- Bulleted
-- List
+```markdown
+Changing the Column of the Data Frame by moving a row to axis = 0
 
-1. Numbered
-2. List
+```markdown
+Dropping of rows and columns that are irelevant
 
-**Bold** and _Italic_ and `Code` text
+```markdown
+Removing of special characters to either integers or string values
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ch1b4d4/Cleaning-Data-Exercise-Practise-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble or Want to give me feedback? Please send me an email on **samchibudu06@yahoo.com**
