@@ -1,8 +1,5 @@
 ## Chibudu Nyiro
 
-Please access my work through this link: [editor on GitHub](https://github.com/ch1b4d4/Cleaning-Data-Exercise-Practise-/edit/main/docs/index.md).
-
-
 ### The Work Done
 I carried out the following procedures for the preparation of the Data Cleaning in this project
 
